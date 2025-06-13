@@ -1,0 +1,1 @@
+g++ timerLauncher.cpp timer.cpp -o timerLauncher -lwinmm
