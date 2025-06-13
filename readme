@@ -1,1 +1,1 @@
-g++ timerLauncher.cpp timer.cpp -o timerLauncher -lwinmm
+A multiple timer system developed for playing Starcraft II with C++.
